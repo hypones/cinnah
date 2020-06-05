@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "cannot": "^2.4.3",
+    "cat-names": "^2.0.0",
+    "chalk": "^2.4.1",
+    "chance": "^1.0.16",
+    "cheerio": "^1.0.0-rc.2",
+    "common": "^0.2.5",
+    "common-tags": "^1.8.0",
+    "db": "^1.0.7",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "find": "^0.3.0",
+    "fortnitetracker-7days-stats": "^3.1.1",
+    "math-expression-evaluator": "^1.2.17",
+    "module": "^1.2.5",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "quick": "0.0.6",
+    "request": "^2.88.0",
+    "tags": "^2.0.10"
+  }
+}
